@@ -1,0 +1,5 @@
+//= require "enchant.js-builds/libs/Box2dWeb-2.1.a.3.js"
+//= require "enchant.js-builds/build/enchant"
+//= require "enchant.js-builds/build/plugins/ui.enchant"
+//= require "enchant.js-builds/build/plugins/nineleap.enchant"
+//= require "enchant.js-builds/build/plugins/box2d.enchant"

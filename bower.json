@@ -1,0 +1,10 @@
+{
+	"name": "middleman",
+	"ignore": [
+		".jshintrc",
+		"**/*.txt"
+	],
+	"dependencies": {
+		"enchant.js-builds": ""
+	}
+}
